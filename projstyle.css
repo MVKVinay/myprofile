@@ -1,0 +1,12 @@
+.first
+{
+    color: rgb(159, 183, 175);
+    font-style:italic;
+}
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
